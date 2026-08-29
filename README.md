@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0561-array-partition](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0561-array-partition) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0561-array-partition) |
+## Sorting
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
