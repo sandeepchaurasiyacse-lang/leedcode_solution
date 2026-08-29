@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0189-rotate-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Linked List
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0189-rotate-array](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0189-rotate-array) |
 | [0561-array-partition](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0561-array-partition) |
 ## Binary Search
 |  |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0561-array-partition) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
