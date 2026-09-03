@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0189-rotate-array) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Linked List
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0189-rotate-array) |
 | [1768-merge-strings-alternately](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/1768-merge-strings-alternately) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
