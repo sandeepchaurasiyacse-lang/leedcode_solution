@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/1071-greatest-common-divisor-of-strings) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
