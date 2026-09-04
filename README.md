@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0189-rotate-array](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0189-rotate-array) |
 | [0561-array-partition](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0561-array-partition) |
+| [0735-asteroid-collision](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0735-asteroid-collision) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Binary Search
 |  |
@@ -76,9 +77,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
