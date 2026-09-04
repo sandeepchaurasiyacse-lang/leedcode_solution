@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0394-decode-string](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0394-decode-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/2390-removing-stars-from-a-string) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
