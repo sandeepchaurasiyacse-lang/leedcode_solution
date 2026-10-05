@@ -2,6 +2,14 @@ class Solution:
     def rotate(self, nums, k):
         n = len(nums)
         k = k % n
-        last = nums[n-k:]
-        first = nums[:n-k]
-        nums[:] = last + first
+        # last = nums[n-k:]
+        # first = nums[:n-k]
+        # nums[:] = last + first
+        def reverse(left,right):
+            while left<right:
+                nums[left],nums[right] = nums[right],nums[left]
+                left +=1
+                right -=1
+        reverse(0,n-1)
+        reverse(0,k-1)
+        reverse(k,n-1)
