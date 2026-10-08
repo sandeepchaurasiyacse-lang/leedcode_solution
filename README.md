@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0561-array-partition) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/sandeepchaurasiyacse-lang/leedcode_solution/tree/master/1768-merge-strings-alternately) |
